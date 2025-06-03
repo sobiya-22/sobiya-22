@@ -2,11 +2,11 @@
 <h3 align="center">An aspiring software engineer from India</h3>
 
 # 💫 About Me:
-🚀 Aspiring Software Developer passionate about building impactful applications using the MERN Stack.
-🧩 Skilled at breaking down complex problems and designing logical, scalable solutions.
-🧠 Currently exploring Machine Learning, LLMs, and AI Agents to apply intelligent systems to real-world challenges.
-🌍 Driven by curiosity, innovation, and the desire to turn ideas into usable tech.
-🤝 Always open to collaboration, learning, and contributing to projects that push boundaries.
+<p>🚀 Aspiring Software Developer passionate about building impactful applications using the MERN Stack.</p>
+<p>🧩 Skilled at breaking down complex problems and designing logical, scalable solutions.</p>
+<p>🧠 Currently exploring Machine Learning, LLMs, and AI Agents to apply intelligent systems to real-world challenges.</p>
+<p>🌍 Driven by curiosity, innovation, and the desire to turn ideas into usable tech.</p>
+<p>🤝 Always open to collaboration, learning, and contributing to projects that push boundaries.</p>
 
 📫 How to reach me **sobiyashaikh22@gmail.com**
 
